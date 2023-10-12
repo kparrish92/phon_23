@@ -1,0 +1,145 @@
+---
+title: "Clase 5"
+format: revealjs
+editor: visual
+---
+
+18-21
+
+
+Clase No. 17 de 30. Apuntes de clase. Raven Suon 
+Clase No. 17 de 30 
+miércoles, 17 de marzo de 2017 
+SPAN 4231 / 5050: Introducción a la fonética española 
+Apuntes de Raven Sutton 
+(Revisados por la profesora) 
+Los términos “sonido”/ “fono” y “alófono” son casi sinónimos. ¿Por qué? 
+sonido sí es un perfecto sinónimo fono 
+alófono es el término que usamos para hablar de un fono/sonido en relación a su familia. La familia de sonidos es lo que llamamos fonema. Un fonema (o familia de sonidos) puede tener un solo miembro, es decir un solo alófono, o varios miembros, decir varios alófonos.Por ejemplo, el fonema (o familia) /p/ solo tiene un alófono [p]; el fonema (o familia) /b/ tiene dos alófonos [b] y [β] 
+REPASO: Fonema es un concepto abstracto. Cada fonema se asocia con uno o más sonidos lingüísticos que llamamos “alófonos”. Hablamos de alófonos cuando hablamos de sonidos en referencia de “su familia”, es decir, su fonema. 
+Por ejemplo = la familia/el fonema /b/ tiene 2 sonidos o alófonos, como ha explicado más arriba. 
+RECORDAR: Ver lista de símbolos fonéticos aquí (https://uncc.instructure.com/courses/44379/pages/simbolos­foneticos­para­copiar­y­pegar) . 
+*SEE TEXTBOOK CHART (https://uncc.instructure.com/courses/44379/files/1217466/download?wrap=1) 
+(https://uncc.instructure.com/courses/44379/files/1217466/download?wrap=1) * 
+/d/  ­­>  [d] dental oclusiva sonora 
+              [ð] dental fricativa sonora 
+[d] “d” duro como “dar”, “andar” 
+1. en posición inicial absoluta 
+2. después de “n” 
+[ð] “d” suave como “la dama”, “codo”, “cada” 
+No tenemos en inglés, pero la pronunciación de "th" en "the" se aproxima bastantes. [ð] es más frecuente en español que [d]. 1. Entre vocales 
+*EVITAR HACER LA “d” DE “LADDER”* 
+/g/ ­­> [g] velar oclusiva sonora 
+/g/ ­­>[ɣ] velar fricativa sonora 
+[g] “g” duro como “gato”, “con ganas” 
+1. en posición inicial absoluta 
+2. después de “n” 
+[ɣ] “g” suave como “la gata”, “lugar”, “fuego” 
+[ɣ] es más frecuente en español que [g]. 
+1. Este sonido ocurre entre vocales, tanto dentro de una palabra como entre palabras. 
+PRÁCTICA:     
+            Indicar con al apropiado símbolo fonético los alófonos de /d/ /b/ /g/ 
+1. lugar [] 
+2. gato [] 
+3. la gata [] 
+4. el gato [] 
+5. un gato []
+https://uncc.instructure.com/courses/44379/pages/clase-no-17-de-30-apuntes-de-clase-raven-sutton?module_item_id=755639 1/2 
+7/21/2018 Clase No. 17 de 30. Apuntes de clase. Raven Sutton: 201710-Spring 2017-SPAN-4231-001:SPAN-5050-001_Combined 
+1. vaso [] 
+2. el vaso [] 
+3. un vaso [] 
+4. abanico [] 
+5. en botella [] 
+6. las botellas [] 
+1. dedo [] [] 
+2. cinco dedos [] [] 
+3. el dedo [] [] 
+4. un dedo [] [] 
+5. los dedos [] [] 
+6. sentado [] 
+Esta práctica y su solución se comentará en la próxima clase. **********
+https://uncc.instructure.com/courses/44379/pages/clase-no-17-de-30-apuntes-de-clase-raven-sutton?module_item_id=755639 2/2 
+7/21/2018 Clase No. 18 de 30. Apuntes de clase. Jailyn Thomas: 201710-Spring 2017-SPAN-4231-001:SPAN-5050-001_Combined 
+Clase No. 18 de 30. Apuntes de clase. Jailyn Thomas 
+Clase No. 18 de 30 
+lunes, 20 de marzo de 2017 
+SPAN 4231 / 5050: Introducción a la fonética española 
+Apuntes de Jailyn Thomas 
+(Revisados por la profesora) 
+ANUNCIO: la calificación y comentarios al trabajo 1 ya están canvas. 
+RECORDAR: Ver lista de símbolos fonéticos aquí (https://uncc.instructure.com/courses/44379/pages/simbolos­foneticos­para­copiar­y­pegar) . Práctica de transcripción de los alófonos de /b d g/ (CONTINUACIÓN) 
+Para esta clase continuamos nuestra práctica con la identificación de los símbolos fonéticos para los alófonos de los fonemas /b/ /d/ /g/ 
+/g/ 
+1. LUGAR [ɣ] fricativa 
+2. GOTA [g] oclusiva: la “g” está en posición inicial absoluta 
+3. LA GOTA [ɣ] fricativa: se pronuncia muy suave 
+4. EL GATO [ɣ] fricativa: se pronuncia muy suave 
+5. UN GATO [g] oclusiva: la “g” está después de “n” 
+/b/ 
+1. VASO [b] oclusiva: se pronuncia con el sonido “b” fuerte porque "v" está en posición inicial absoluta. 
+2. EL VASO [β] fricativa 
+3. UN VASO [b] oclusiva: porque viene después de “n” 
+4. ABANICO [β] fricativa: entre vocales (muy suave) 
+5. EN BOTELLAS [b] oclusiva porque está después de "n" 
+6. LAS BOTELLAS [β] o[b] fricativa u oclusiva después de "s" 
+/d/ 
+1. DEDO [d] [ð] oclusiva, fricativa 
+2. CINCO DEDOS [ð] [ð] fricativa: se pronuncia muy suave, como el sonido de "th" en "the". 
+3. EL DEDO [d] [ð] oclusiva, fricativa: segunda “d” se pronunciacomo el sonido de "th" en "the". 
+4. UN DEDO [d] [ð]| oclusiva, fricativa (la primera “d” está después de “n”. 
+5. LOS DEDOS [d]/[ð] [ð] oclusiva, fricativa 
+6. SENTADO [ð] la “d” está entre vocales. 
+******************
+https://uncc.instructure.com/courses/44379/pages/clase-no-18-de-30-apuntes-de-clase-jailyn-thomas?module_item_id=755640 1/1 
+7/21/2018 Clase No. 19 de 30. No hay apuntes. Hubo examen: 201710-Spring 2017-SPAN-4231-001:SPAN-5050-001_Combined 
+Clase No. 19 de 30. No hay apuntes. Hubo examen 
+Clase No. 19 de 30 
+miércoles, 22 de marzo de 2017 
+SPAN 4231 / 5050: Introducción a la fonética española 
+Apuntes de ____________ 
+(Revisados por la profesora) 
+No hay apuntes. Este día tuvimos el examen No. 2 de 2.
+https://uncc.instructure.com/courses/44379/pages/clase-no-19-de-30-no-hay-apuntes-hubo-examen?module_item_id=759328 1/1 
+7/21/2018 Clase No. 20 de 30. Apuntes de clase. Ruth Thomas: 201710-Spring 2017-SPAN-4231-001:SPAN-5050-001_Combined 
+Clase No. 20 de 30. Apuntes de clase. Ruth Thomas 
+Clase No. 20 de 30 
+lunes, 27 de marzo de 2017 
+SPAN 4231 / 5050: Introducción a la fonética española 
+Apuntes de Ruth Thomas 
+(Revisados por la profesora) 
+Recordatorio: Completar el trabajo No. 2. 
+Turnos de los apuntes para las clases No. 22­30: 22) Keiva McCullough (2a vez), 23) David Cortés (2a vez), 24) Raven Sutton (2a vez), 25) Caitlin Harrison (2a vez), 26) Kelli James (2a vez), 27) Kiarra Balom (2a vez), 28) Samantha Creasy (2a vez), 29) Stephanie Marek (2a vez), y 30) Alexandre Bierrenbach y Adrien Roberson (2a vez) 
+RECORDAR: Ver lista de símbolos fonéticos aquí (https://uncc.instructure.com/courses/44379/pages/simbolos­foneticos­para­copiar­y­pegar) . Organizar los 12 elementos en dos grupos lógicos: 
+1. [ ] 7. Fonética 
+2. [ð] 8. Fonológico 
+3. / / 9. Fonema 
+4. /d/ 10. Alófono 
+5. Fonología 11. Fonético 
+6. [d] 12. Sonido 
+Fonología (5) Fonética (7) 
+9. Fonema 12. Sonido 
+4. /d/ 1. [     ] 
+3. /   / 2. [ð]   
+8. Fonológico 6. [d] 
+5. Fonología 10. Alófono 
+7. Fonética 
+8. Fonético 
+La columna de fonología contiene todos los elementos relacionados con el concepto de "fonema (o familia de sonidos)". La columna de fonética contiene todo los elementos relacionados con el "sonido material/real". 
+Describir usando los símbolos /ð/, /d/, [ð], y [d] el estatus de [ð] y [d] en inglés y español.
+https://uncc.instructure.com/courses/44379/pages/clase-no-20-de-30-apuntes-de-clase-ruth-thomas?module_item_id=759329 1/2 
+7/21/2018 Clase No. 20 de 30. Apuntes de clase. Ruth Thomas: 201710-Spring 2017-SPAN-4231-001:SPAN-5050-001_Combined 
+
+Inglés 
+(dos fonemas o familias que incluyen un solo sonido) 
+/d/­­­­>[d], “dough” 
+/ð/­­­­>[ð], “though” 
+Español 
+(un fonema o familia que incluye 
+dos sonidos) 
+/d/­­­­>[d], “Don Pedro”, “caldo” 
+   ­­­­­>[ð], “lado”, “la dama” 
+****************
+
+https://uncc.instructure.com/courses/44379/pages/clase-no-20-de-30-apuntes-de-clase-ruth-thomas?module_item_id=759329 2/2 
+7/21/2018 Clase No. 21 de 30. Apuntes de clase. Jordan Umaña: 201710-Spring 2017-SPAN-4231-001:

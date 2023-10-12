@@ -1,0 +1,313 @@
+---
+title: "Introducción a la fonética española: semana 2"
+format:
+  revealjs: 
+    theme: dark
+editor: source
+incremental: true 
+---
+
+# ¿Cuáles son las dos (2) reglas del acento prosódico en español?
+
+------------------------------------------------------------------------
+
+## Las reglas del acento prosódico {.smaller}
+
+::: columns
+::: {.column width="60%"}
+-   
+
+    1.  Las palabras que terminan en [vocal]{style="color:red;"} en [n]{style="color:blue;"} o [s]{style="color:green;"} tienen el acento prosódico en **la penúltima sílaba**.
+
+-   
+
+    2.  Las palabras que terminan en [consonante]{style="color:orange;"} (diferente de [n]{style="color:blue;"} o [s]{style="color:green;"}) tienen el acento prosódico en **la última sílaba**.
+:::
+
+::: {.column width="40%"}
+-   *Observen estas palabras en indiquen por qué algunas de estas palabras llevan acento gráfico*.
+-   
+    1.  em[é]{style="text-decoration: underline;"}rit[o]{style="color:red;"}
+-   
+    2.  compañ[e]{style="text-decoration: underline;"}r[o]{style="color:red;"}\
+-   
+    3.  salm[ó]{style="text-decoration: underline;"}[n]{style="color:blue;"}\
+-   
+    4.  lentit[u]{style="text-decoration: underline;"}[d]{style="color:orange;"}\
+-   
+    5.  jam[á]{style="text-decoration: underline;"}[s]{style="color:green;"}
+-   **Conclusión: El acento gráfico en las palabras 1, 3, y 5 nos indica que estas palabras no siguen una de las dos (2) reglas mencionados más arriba.**
+:::
+:::
+
+------------------------------------------------------------------------
+
+## ¿En qué otras situaciones usamos el acento gráfico? {.smaller}
+
+::: columns
+::: {.column width="50%"}
+-   
+
+    1.  Para indicar que el diptongo está roto.
+
+    -   Ejemplos:
+        -   baúl
+        -   María
+:::
+
+::: {.column width="50%"}
+-   
+
+    2.  Usamos el acento gráfico para diferenciar homófonos.
+
+    -   Ejemplos:
+        -   tú/tu
+        -   él/el
+        -   cómo/como
+        -   mí/mi
+:::
+:::
+
+::: notes
+**baul**; esta palabra sigue el patrón 1, ya que termina en vocal y el acento prosódico está en la penúltima sílaba, pero el acento prosódico rompe el diptongo "ia" entonces marcamos esa ruptura poniendo un acento gráfico sobre la vocal débil "i".
+
+**maria**; esta palabra sigue el patrón 2, ya que termina en consonante y el acento prosódico está en la última sílaba, pero el acento prosódico rompe el diptongo "au" entonces marcamos esa ruptura poniendo un acento gráfico sobre la vocal débil "u".
+:::
+
+------------------------------------------------------------------------
+
+## Práctica del acento gráfico {.smaller}
+
+::: columns
+::: {.column width="40%"}
+-   Protocolo:
+    -   
+
+        1.  Mirar el último sonido (a la derecha) de la palabra.
+
+    -   
+
+        2.  Observar dónde está el acento prosódico (la sílaba subrayada).
+
+    -   
+
+        3.  Determiner si la sílaba con el acento prosódico necesita acento gráfico
+:::
+
+::: {.column width="30%"}
+-   
+
+    1.  mínimo
+
+-   
+
+    2.  rígido
+
+-   
+
+    3.  examen
+
+-   
+
+    4.  exámenes
+
+-   
+
+    5.  tesis
+
+-   
+
+    6.  melón
+
+-   
+
+    7.  carácter
+
+-   
+
+    8.  caracteres
+
+-   
+
+    9.  héroe
+:::
+
+::: {.column width="30%"}
+-   
+
+    10. heroísmo
+
+-   
+
+    11. revolver
+
+-   
+
+    12. ataque
+
+-   
+
+    13. pared
+
+-   
+
+    14. luz
+
+-   
+
+    15. álbum
+
+-   
+
+    16. reía
+
+-   
+
+    17. sabeis
+
+-   
+
+    18. pais\
+:::
+:::
+
+------------------------------------------------------------------------
+
+# El dígrafo y diéresis {.smaller}
+
+::: columns
+::: {.column width="60%"}
+-   **Dígrafo**: Es una combinación de dos letras que representan un solo sonido.
+:::
+
+::: {.column width="40%"}
+-   Observen e identifiquen los sonidos que están representados por más de una letra (grafema):
+
+1.  aquí
+2.  carro
+3.  calle
+4.  coche
+5.  águila
+6.  guerra
+7.  quemar
+:::
+:::
+
+------------------------------------------------------------------------
+
+# El dígrafo y diéresis {.smaller}
+
+::: columns
+::: {.column width="60%"}
+-   Diéresis (Ü, "u" con diéresis)
+
+-   ¿Cuándo usamos la diéresis?
+
+-   Observen: ceguera manguera seguimos
+
+-   Comparen con: bilingüe vergüenza lingüística
+
+-   Deduzcan la regla para el uso de la diéresis.
+:::
+
+::: {.column width="40%"}
+-   **Diéresis**: Usamos la Ü ("u" con diéresis) para indicar ortográficamente que la "u" se tiene que pronunciar y que no es parte del diágrafo gue o gui
+
+-   Observen la pronunciación por defecto de: ga, gue, gui, go, gu, en palabras como: pegar, hoguera, águila, lago, aguja
+
+-   En contraste con: ja, je/ge, ji/gi, jo, ju, en palabras como: jamás, jefe/gente, jirafa/gitano, hijo, ajustar Letras Mudas (Sin Valor Fonético)
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Autoprueba {.smaller}
+
+::: columns
+::: {.column width="40%"}
+Fase No. 1: Reflexión individual sin materiales
+
+Fase No. 2: Con el compañero y materiales
+
+Fase No. 3: Puesta en común (toda la clase)
+:::
+
+::: {.column width="60%"}
+1.  ¿Qué es la diéresis? ¿Cuándo se usa la diéresis en español? ­
+
+2.  ¿Cuál es la diferencia entre elementos segmentales y elementos suprasegmentales?
+
+3.  ¿Cuántos elementos segmentales hay en:
+
+-   
+
+    1)  GUAPO
+
+-   
+
+    2)  PAGUÉ
+
+-   
+
+    3)  CHURRO?
+
+4.  ¿Qué es un dígrafo? ­
+
+5.  Explica con ejemplos la diferencia entre "gue", "güe" y "ge" en cuanto a la pronunciación?
+:::
+:::
+
+::: notes
+1.  La diéresis solamente se usa en español sobre la vocal "u" ­ La usamos para indicar ortográficamente que la "u" se tiene que pronunciar y que no es parte del dígrafo "gu" en las combinaciones gu+e. gu+i en palabras como guerra o guitarra.
+
+2.  Los elementos segmentales son los sonidos vocálicos y consonánticos y los elementos suprasegmentales son las características fonéticas que incluyen: 1) el acento prosódico, 2) la entonación y 3) el ritmo
+
+3.  ¿Cuántos elementos segmentales hay en: 1) GUAPO -- 5 sonidos (3 vocales y 2 consonantes) (elementos segmentales), 5 elementos gráficos 2) PAGUÉ -- 4 sonidos (2 vocales y 2 consonantes) (elementos segmentales), 5 elementos gráficos más el acento gráfico 3) CHURRO -- 4 sonidos (2 vocales y 2 consonantes) (elementos segmentales), 6 elementos gráficos
+
+4.  Es la combinación de dos letras que representan un solo sonido. Por ejemplo, en "guerra" , la combinación de "gu" representa un solo sonido, ya que la "u" no se pronuncia.
+
+5.  guerra; el sonido representado por "gu" se pronuncia como en inglés la palabra "go" vergüenza; "gü" estas dos letras representan dos sonidos diferentes, "g" como en inglés "go" y "u" como en español "una" gente; "g" se pronuncia como en ingles la "h" de "house" (en inglés) Diferenciar entre fenómenos ortográficos y fenómenos fonéticos ¿Cuáles son las limitaciones del sistema ortográfico en cuanto a la representación de los sonidos? Hay 5 limitaciones en total que se enumeran abajo. 1. Diferentes sonidos tienen igual ortografía. gato (como en inglés "go") un gato (como en inglés "go") una gata (un sonido muy suave y no existe en inglés)
+:::
+
+------------------------------------------------------------------------
+
+## Limitaciones del alfabeto convencional del español {.smaller}
+
+1.  Sonidos diferentes se representan con el mismo símbolo ortográfico.
+
+-   La pronunciación de la "g fuerte" se hace más suave después de una vocal, sin embargo usamos la letra "g" tanto para el sonido fuerte como para el sonido suave.
+-   gato­"g" con sonido fuerte como en inglés "go"
+-   un gato
+-   una gata <!--una γáta--> "g" con sonido suave; no tenemos este sonido en inglés.
+
+2.  Sonidos iguales se representan con símbolos ortográficos diferentes.
+
+-   Las letras "b" y "v" tienen el mismo sonido. Cuando están entre vocales, las letras "b" y "v" se realizan aproximando los labios sin llegar a tocarse.
+-   El sonido es parecido a la pronunciación de la letra "w" en la palabra inglesa, "wood".
+-   En posición inicial absoluta, "b" y "v" se pronuncian como en inglés "boy". beber­ <!--beβér--> vivir­ <!--biβír-->
+
+3.  Hay letras mudas. Por ejemplo la letra "h" siempre es muda, y la letra "u" en el dígrafo "gu" en "gue" y "gui" en palabras como guerra, guitarra.
+
+4.  Las letras "g" y "c" tienen dos sonidos, <!--x--> y <!--g-->, y <!--k--> y /s/ o <!--θ--> (solo en el norte de España). acción­ <!--aksjón-->; <!--akθjón--> (solo en el norte de España) gente­ <!--'χénte--> gato­ <!--gáto-->
+
+5.  La letra "x" representa la combinación de dos sonidos. examen­ <!--eksamen--> La solución para estas limitaciones es usar el Alfabeto Fonético Internacional, o AFI.
+
+------------------------------------------------------------------------
+
+## Ventajas de usar el alfabeto fonético internacional (AFI) {.smaller}
+
+-   ¿Qué característica importantísima tiene el alfabeto fonético comparado con el alfabeto ortográfico?
+
+-   xLa característica es que cada uno de los símbolos del alfabeto fonético se corresponde con un solo sonido.
+
+1.  corchetes, así "como" se representa fonéticamente <!--kó­mo-->
+
+2.  articula, un sinónimo de "articular" es "pronunciar". Solo se representa fonéticamente lo que se articula. Por ejemplo "almohada" se representa fonéticamente <!--al­mo­á­ða-->, observen que la "h" no está representada fonéticamente.
+
+3.  sonido
+
+4.  idéntica; observen "casar" <!--ka­sár--> y cazar" <!--ka­sár--> 5. minúscula
+
+5.  <!--´-->
+
+6.  acento prosódico, fonético, expiratorio, de intensidad, primario. ­­

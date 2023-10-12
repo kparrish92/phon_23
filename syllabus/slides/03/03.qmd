@@ -1,0 +1,91 @@
+---
+title: "Clase 3"
+format: revealjs
+editor: visual
+---
+
+
+1. ¿Cuál es la diferencia entre el concepto de lengua y el de dialecto? 
+
+2. ¿Hay ejemplos concretos de grupos de hablantes que hablan lengua o que hablan dialecto? 
+
+3. ¿De qué depende el prestigio de un dialecto?
+
+4. ¿Hay una variedad de español más deseable que otras? 
+
+::: notes
+1. ¿Cuál es la diferencia entre el concepto de lengua y el de dialecto? 
+  - Un dialecto puede ser una manera diferente de hablar un idioma o lengua. 
+
+2. ¿Hay ejemplos concretos de grupos de hablantes que hablan lengua o que hablan dialecto? 
+  - Todos somos hablantes de un dialecto (de una lengua)
+  - No existe un hablante "perfecto" del español
+  - Lengua es un concepto abstracto
+
+Todos hablamos un dialecto, pero nadie habla una lengua porque "lengua es un concepto abstracto". 
+
+3. ¿De qué depende el prestigio de un dialecto? 
+
+¿Quién decide el estatus social de un dialecto? 
+
+1. Depende de la persona asociada con el dialecto. 
+
+2. El inglés del Mid­west de Estados Unidos tiene más prestigio, es el que se oye en la radio y la televisión. 
+
+3. El inglés del del sur de los Estados Unidos tiene menos prestigio que el del Mid­west. 
+
+4. No hay una variedad mejor que otra desde el punto de vista científico. Sin embargo, los hablantes hacen juicios de valor con respecto a algunas variedades y consideran algunas variedades mejores que otras. Estas valoraciones son construcciones de naturaleza social, es decir que no hay una razón científica objetiva para valorar un dialecto como mejor o peor. La valoraciones surgen porque un dialecto puede estar asociado con un grupo de hablantes que no está altamente valorado por razones múltiples (nivel intelectual o educativo, poder económico, poder político, etc.)
+:::
+
+---
+
+
+
+Trabajamos con el diagrama del aparato fonador (práctica 1 (https://uncc.instructure.com/courses/44379/files/1217300/download?wrap=1) (https://uncc.instructure.com/courses/44379/files/1217300/download?wrap=1) )
+
+
+3.  Empezamos a trabajar con el triángulo vocálico (https://uncc.instructure.com/courses/44379/files/1217301/download?wrap=1) (https://uncc.instructure.com/courses/44379/files/1217301/download?wrap=1) . 
+
+Los vocales se clasifican por la posición de la lengua en la cavidad bucal: vocales altas/medias/bajas (según la posición de la lengua con respecto al eje vertical) y vocales anteriores/centrales/posteriores (según la posición de la lengua con respecto al eje horizontal, es decir si la lengua se coloca más cerca de los dientes frontales o si se coloca más cerca del paladar blando) Otro criterio importante en la clasificación y producción de las vocales es la posición de los labios (estirados, neutros, redondeados). 
+
+https://uncc.instructure.com/courses/44379/pages/clase-no-9-de-30-apuntes-de-clase-caitlin-harrison?module_item_id=735510 1/1 7/21/2018 Clase No. 10 de 30. Apuntes de clase. Kelli James: 201710-Spring 2017-SPAN-4231-001:SPAN-5050-001_Combined Clase No. 10 de 30. Apuntes de clase. Kelli James Clase No. 10 de 30 lunes, 13 de febrero de 2017 SPAN 4231 / 5050: Introducción a la fonética española Apuntes de Kelli James (Revisados por la profesora) Guía de Estudio del Examen No. 1 de 2 (https://uncc.instructure.com/courses/44379/pages/guia­de­estudio­para­el­examen­no­1­de­2­primavera 2017) Ítemes 7 y 8. No decir solamente "Rompe patrón 1 o 2". Explica los patrones también. Ítem 18
+4.  posterior
+5.  central
+6.  anterior
+7.  alta
+8.  media
+9.  baja
+10. estirados
+11. neutros
+12. redondeados
+13. i
+14. e
+15. a
+16. o
+17. u i­ alta, anterior, estirados e­ media, anterior, estirados a­ baja, central, neutros o­ media, posterior, redondeados u­ alta, posterior, redondeados Fonema y Fono (sonido) o Alófono Fonema es el concepto abstracto del sonido. El fonema no es el sonido material. El fonema se representa entre barras //, mientras que el sonido (fono, alófono) se representa entre paréntesis cuadros. \[\] /i/ \[i\] vocal plena (alta, anterior, labios estirados) ej. cinco, fin \[i̯\] Semivocal ej. seis, violín \[ʝ\] Semiconsonate ej. hielo, (maria y olga)\
+    Ortografía: "i", "y", "hi"
+18. evitar pronunciar /i/ como en "sick" o "sin" en inglés\
+19. evitar la ruptura del diptongo. ej. fiesta, tiempo, patio, adiós https://uncc.instructure.com/courses/44379/pages/clase-no-10-de-30-apuntes-de-clase-kelli-james?module_item_id=739198 1/2 7/21/2018 Clase No. 10 de 30. Apuntes de clase. Kelli James: 201710-Spring 2017-SPAN-4231-001:SPAN-5050-001_Combined Pares Mínimos Par mínimo: dos palabras que tienen la misma secuencia de sonidos excepto uno de ellos, que está en la misma posición en las dos palabras.
+20. pesar pisar
+21. pesado pisado
+22. emito imito
+23. remar rimar
+24. legar ligar /u/ \[u\] vocal plena (alta, posterior, labios redondeados) ej. tu, suma \[u̯\] semivocal ej. puente, fuente, seudónimo \[w\] semiconsonante ej. huevo, hueco, huelo ortografía: "u", "hu", ü
+25. evitar pronunciar /u/ como en "humble"
+26. Evitar pronunciar /u/ como en "fusion"
+27. Evitar la ruptura del diptongo en palabras como: fuente, deuda\
+    \*\*\*\*\*\*\*\*\*\*\*\*\*\* https://uncc.instructure.com/courses/44379/pages/clase-no-10-de-30-apuntes-de-clase-kelli-james?module_item_id=739198 2/2 7/21/2018 Clase No. 11 de 28. No hay apuntes. Hubo examen.: 201710-Spring 2017-SPAN-4231-001:SPAN-5050-001_Combined Clase No. 11 de 28. No hay apuntes. Hubo examen. Clase No. 11 de 30 lunes, 9 de enero de 2017 SPAN 4231 / 5050: Introducción a la fonética española Apuntes de \_\_\_\_\_\_\_\_\_\_\_\_ (Revisados por la profesora) No hay apuntes. Este día tuvimos el examen No. 1 de 2. \*\*\*\*\*\*\*\*\*\*\*\* https://uncc.instructure.com/courses/44379/pages/clase-no-11-de-28-no-hay-apuntes-hubo-examen?module_item_id=739199 1/1 7/21/2018 Clase No. 12 de 30. Apuntes de clase. Laurita Lezama: 201710-Spring 2017-SPAN-4231-001:SPAN-5050-001_Combined Clase No. 12 de 30. Apuntes de clase. Laurita Lezama Clase No. 12 de 30 lunes, 20 de febrero de 2017 SPAN 4231 / 5050: Introducción a la fonética española Apuntes de Laurita Lezama (Revisados por la profesora) La profesora habló de la Hoja de cálculo (https://uncc.instructure.com/courses/44379/files/1450793/download?wrap=1) (https://uncc.instructure.com/courses/44379/files/1450793/download?wrap=1) para tomar control con lo que pasa con las calificaciones este semester.\
+    Tenemos 5 trabajos que grabar digitalmente. Podemos usar audacity (https://uncc.instructure.com/courses/44379/pages/experimentar­con audacity­instrucciones­primavera­2017) para grabar y la grabación tiene que estar en formato MP3 o WAV. Como práctica hay que entregar una grabación corta y subir la grabación a canvas (https://uncc.instructure.com/courses/44379/assignments/155013) esto debe estar el 27 de febrero a mucho tardar. La primera grabación (Trabajo No. 1) se entrega el 15 de marzo. Continuamos con la vocal E y acabamos con la vocal A. /e/ ­ \[ e\] media anterior estirados Ortografía: "e", "he" Evitar el deslizamiento/desplazamiento hacia \[i\]. Este desplazamiento puede ocurrir en sílabas tónicas Comparen estos pares mínimos \[RECORDAR: Un par mínimo consiste en dos palabras que tienen la misma secuencia de sonidos excepto uno de ellos, que está en la misma posición en las dos palabras.\] vente / veinte\
+    pena / peina /o/ ­\[o\] media, posterior, redondeados Ortografía "o" "ho"
+28. Evitar pronunciarla sin redondear los labios. cosa / casa\
+    hombre / hambre
+29. Evitar deslizamiento/desplazamiento a la \[u\] este desplazamiento hay que controlarlo especialmente en sílabas tónicas. cosa solo no Práctica:\
+    Estoy seguro que ese trabajo no es duro /a/­ \[a\] baja, central, neutros ortografia "a" 'h" Evitar neutralizar la en el sonido schwa \[ (http://graphemica.com/unicode/%C7%9D) ǝ\]. Ver más información sobre la schwa en FFE p. 26, 33, 36, 113­115, 117, 118, 138­141. Practicar:
+30. hambre\
+31. acosar
+32. anular
+33. cosa
+34. casa
+35. rana https://uncc.instructure.com/courses/44379/pages/clase-no-12-de-30-apuntes-de-clase-laurita-lezama?module_item_id=747225 1/2
+
+7/21/2018 Clase No. 12 de 30. Apuntes de clase. Laurita Lezama: 201710-Spring 2017-SPAN-4231-001:SPAN-5050-001_Combined Las vocales, aunque son orales en general (se producen en la cavidad bucal), pueden convertirse en nasales por influencia del contexto fonético. En fonética esta conversión nasal se resume en la siguiente fórmula: Sílaba: Es una secuencia de sonidos que se pronuncian en un solo golpe de voz. Una palabra puede constar de una o más sílabas. Una sílaba puede constar de un sonido. En cualquier caso el NÚCLEO SILÁBICO es la vocal. \*\*\*\*\*\*\*\*\*\*\*\*\*\*
