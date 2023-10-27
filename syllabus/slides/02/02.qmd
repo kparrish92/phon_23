@@ -380,7 +380,7 @@ Fase No. 3: Puesta en común (toda la clase)
 
 - 5.  Hay letras que representan una combinacion de dos sonidos.
 
-:::notes::
+:::notes
 -   La pronunciación de la "g fuerte" se hace más suave después de una vocal, sin embargo usamos la letra "g" tanto para el sonido fuerte como para el sonido suave.
 -   gato­"g" con sonido fuerte como en inglés "go"
 -   un gato
@@ -403,3 +403,5 @@ Fase No. 3: Puesta en común (toda la clase)
 ## Ventajas de usar el alfabeto fonético internacional (AFI) {.smaller}
 
 - Cada uno de los símbolos del alfabeto fonético se corresponde con un solo sonido.
+
+---
