@@ -1,13 +1,13 @@
 {
     "sortOrder": [
         {
-            "columnIndex": 4,
-            "ascending": false
-        },
-        {
             "columnIndex": 2,
             "ascending": true
+        },
+        {
+            "columnIndex": 4,
+            "ascending": false
         }
     ],
-    "path": "~/Documents/GitHub/phon_23/syllabus/slides/02"
+    "path": "~/Documents/GitHub/phon_23/syllabus"
 }
