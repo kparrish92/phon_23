@@ -1,0 +1,21 @@
+/* Add maven for code font (keep other xaringan defaults */
+@import url(https://fonts.googleapis.com/css?family=Inconsolata);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
+
+body {
+    font: 36px, 'Oswald', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Oswald';
+  font-weight: normal;
+  font-size: 45;
+}
+
+
+
+.remark-code, .remark-inline-code { font-family: 'Inconsolata', monospace; }
+.remark-code-line-highlighted     { background-color: #ffff88; }
