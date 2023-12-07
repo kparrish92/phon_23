@@ -27,54 +27,23 @@ xaringan::inf_mr()
 
 class: title-slide-section-grey, middle
 
-# .white[Precalentamiento]
-
----
-
-# En grupos de tres discutid las siguientes preguntas
-
-1. ¿Qué lenguas hablas?
-
-1. ¿Cómo y dónde has aprendido a hablar el español?
-
-1. ¿Qué significa ser bilingüe?
-
-1. ¿Cuál es la relación que tienes con los dos idiomas? ¿Eres bilingüe? ¿Cómo caracterizarías tu bilingüismo? 
-
-1. ¿Cuál es tu actitud y/o sentimientos hacia el español?
-
-1. ¿Qué es lo que más te gusta del idioma español?
-
-1. Si pudieras cambiar algo sobre la lengua, ¿qué sería?
-
-1. ¿Qué planes tienes para tu futuro con las lenguas que hablas o la lingüística?
-
----
-class: title-slide-section-grey, middle
-
 # .white[Sílabas, vocales y ritmo]
 
 ---
 
 # El encadenamiento
 
-### Tenemos una estructura sílabica preferida (CV.CV)
-### Se mantiene tanto en el interior de la palabra como **entre palabras**
+Tenemos una estructura sílabica preferida (CV.CV)
+Se mantiene tanto en el interior de la palabra **como entre palabras**
 
 .pull-left[
 
 - amigo      
-
 - coche      
-
 - el otro
-
 - en el coche
-
 - al amigo   
-
 - buen año   
-
 ]
 
 --
@@ -82,17 +51,11 @@ class: title-slide-section-grey, middle
 .pull-right[
 
 - a.mi.go       
-
 - co.che        
-
 - e.**l**o.tro
-
 - e.**n**el.co.che 
-
 - a.**l**a.mi.go    
-
 - bue.**n**a.ño     
-
 ]
 
 ---
@@ -113,11 +76,15 @@ Your browser does not support the audio element.
 - Escencialmente lo que hay que hacer es pronunciar cada enunciado como 
 si fuese **una** palabra
 
+---
+
+# El encadenamiento
+
 ### ¿Cómo se hace?
 
 --
 
-- maximizando el arranque
+- maximizando el arranque (el primer segmento de la sílaba)
 - manteniendo la estructura silábica preferida **entre palabras**
 
 ---
@@ -127,21 +94,13 @@ si fuese **una** palabra
 .pull-left[
 
 - un amigo
-
 - el amigo
-
 - tus amigos
-
 - sus amigos
-
 - los amigos
-
 - dos hermanos
-
 - los ángeles
-
 - en este
-
 ]
 
 --
@@ -149,21 +108,13 @@ si fuese **una** palabra
 .pull-right[
 
 - u.na.mi.go
-
 - e.la.mi.go
-
 - tu.sa.mi.gos
-
 - su.sa.mi.gos
-
 - lo.sa.mi.gos
-
 - do.ser.ma.nos
-
 - lo.sán.ge.les
-
 - e.nes.te
-
 ]
 
 ---
@@ -173,19 +124,12 @@ si fuese **una** palabra
 .pull-left[
 
 - Es una lástima
-
 - ¿Piensas así?
-
 - ¡Ven y báñate!
-
 - Las instrucciones están aquí.
-
 - Los amigos están en Oslo.
-
 - Los abuelos viven ahí.
-
 - En estos años es algo difícil ir.
-
 ]
 
 --
@@ -193,19 +137,12 @@ si fuese **una** palabra
 .pull-right[
 
 - e.su.na.lás.ti.ma
-
 - ¿pien.sa.sa.sí?
-
 - ¡ve.ny.bá.ña.te!
-
 - la.sins.truc.cio.ne.ses.tá.na.quí
-
 - lo.sa.mi.go.ses.tá.ne.nos.lo
-
 - lo.sa.bue.los.vi.ve.na.í.
-
 - e.nes.to.sa.ño.se.sal.go.di.fí.ci.lir
-
 ]
 
 ---
@@ -257,35 +194,34 @@ mia.mi.goy.yo. fui.mo.sa.ve.rau.na.mi.go
 # La duración
 
 .pull-left[
-
-### En español...
-
+**En español...**
 - Las sílabas átonas y tónicas tienen la misma duración.<sup>1</sup>  
     - Con.si.de.ra.ción
     - Ca.sa
-
-### En inglés... 
-
-- Las sílabas tónicas son más largas
-- Las átonas se reducen en duración y calidad
-  - **A**tom (rojo = sílaba tónica)
-  - .blue[a]**to**mic (azul = schwa)
-
 ]
 
 --
 
 .pull-right[
-
-### Para mejorar la pronunciación: 
-
-- No reducir vocales en español
-- Mantener la calidad de las vocales átonas
-- Es decir, ¡evitar la scwha!
-
+**En inglés...** 
+- Las sílabas tónicas son más largas
+- Las átonas se reducen en duración y calidad
+  - **A**tom (rojo = sílaba tónica)
+  - .blue[a]**to**mic (azul = schwa)
 ]
 
 .footnote[<sup>1</sup> Esto es mentira.]
+---
+
+# La duración
+
+.pull-left[
+**Para mejorar la pronunciación**
+- No reducir vocales en español
+- Mantener la calidad de las vocales átonas
+- Es decir, ¡evitar la scwha!
+]
+
 
 ---
 background-image: url(./assets/img/schwa4.png)
@@ -305,13 +241,9 @@ background-position: 95% 50%
 .pull-left[
 
 - Es una vocal (/ə/) típica del inglés
-
 - Representa un sonido *inacentuado* (aparece en sílabas átonas)
-
 - Es el sonido más común del inglés americano
-
-- Existe en la gran mayoría de las palabras
-
+- Existe en la gran mayoría de las palabras 
 - Es vuestro <BLUE>ENEMIGO</BLUE>
 
 ]
@@ -424,62 +356,11 @@ background-position: 95% 50%
 - lágrim**a**
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-class: title-slide-section-red, middle
-
-<!-- dia 2 -->
-
-# Precalentamiento
-
----
-
-# A pensar
-
-### Proporcionad ejemplos de:
-
-- Un sonido que se represente con diferentes letras
-
-- Letras que se pronuncien de diferentes maneras
-
-- Letras que no se pronuncien
-
-- Una letra que se pronuncie con dos sonidos juntos
-
-- Un sonido que se represente con dos letras juntas
-
----
 background-image: url(./assets/img/toyoda.jpg)
 background-size: 400px
 background-position: 95% 50%
 
-# Mini repaso
+# Un ejemplo
 
 .pull-left[
 
@@ -496,30 +377,6 @@ little green guy from Star Wars.
 background-image: url(./assets/img/superbowl.jpg)
 background-size: 400px
 background-position: 95% 50%
-
-# Mini repaso
-
-- El encadenamiento
-
-- El acento
-
-- La duración
-
----
-
-# El ritmo
-
-### Español: Ritmo silábico 
-
-- Depende del número de sílabas
-
-- Tienen (aproximadamente) la misma duración
-
-</br>
-
-### Inglés: Ritmo acentual 
-
-- Depende del número de sílabas tónicas
 
 ---
 class: title-slide-section-grey, middle
@@ -760,14 +617,13 @@ class: title-slide-section-red, middle
 
 # Un pequeño experimento de percepción
 
-- Escuchad el siguiente fragmento de una oración. 
+- Escuchan el siguiente fragmento de una oración. 
 
-- En un papel escribid lo que habéis escuchado y la traducción correspondiente 
-en inglés 
+- En un papel escriben lo que han escuchado y la traducción correspondiente en inglés 
 
 --
 
-- Después, en español, agregad unas palabras más a lo que hayáis escrito para 
+- Después, en español, agregan unas palabras más a lo que hayáis escrito para 
 hacer una oración completa.
 
 </br>
@@ -977,13 +833,4 @@ class: title-slide-section-grey, middle
 - /ɾ/ vs. /r/
 
 ]
-
----
-
-# Prueba el lunes
-
-- Repasad las presentaciones
-- Estudiad los resúmenes
-- ¡Haced preguntas!
-
 
